@@ -1,4 +1,4 @@
-## hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px"> 
+## HI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
