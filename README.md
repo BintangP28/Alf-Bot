@@ -12,7 +12,8 @@
 > git clone https://github.com/alfiansx/alfbot
 ```
 
-## Install the dependencies:
+## Install the dependencies: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
@@ -26,7 +27,8 @@ you've just cloned!!
 > npm start
 ```
 
-## Features
+## Features <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |
@@ -56,11 +58,13 @@ you've just cloned!!
 |       ✅        |   Broadcast                      |
 |       ✅        |   Clear All Chats                |
 
-## Special Thanks to
+## Special Thanks to 
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar/termux-wabot`](https://github.com/MhankBarBar/termux-wabot)
 * [`Toby`](https://github.com/TobyG74)
 * [`IbnuSyawall`](https://github.com/ibnusyawall)
 
-### Donate
+### Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+
 * [`Saweria`](https://saweria.co/donate/aditiaalfians)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
