@@ -1,4 +1,4 @@
-## hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hi.gif" width="60px"> 
+## hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="60px"> 
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -59,7 +59,8 @@ ket : ✅ : aktif
 * [`botst4rz`](https://github.com/Bintang73/botst4rz)
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 * [`re-Destro`](https://github.com/re-Destro/BETA-BOT)
-## DONASI
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+
 * [`KLIK To Donasi`](https://wa.me/6283813304760+Mau+Donasi)
 <P align="center">
 
