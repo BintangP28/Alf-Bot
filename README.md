@@ -60,10 +60,11 @@ ket : ✅ : aktif
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 * [`re-Destro`](https://github.com/re-Destro/BETA-BOT)
 ## DONASI
-* [`KLIK'](https://wa.me/6283813304760+Mau+Donasi)
+* [`KLIK To Donasi`](https://wa.me/6283813304760+Mau+Donasi)
 <P align="center">
 
-<img src="https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif" width="100%" alt="API Giphy logo"/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
 
 
  
