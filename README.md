@@ -7,7 +7,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
-## CARA INSTALL
+## CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
 # TERMUX
 ```bash
 > download termux
@@ -25,7 +26,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```
 
 
-# FITUR
+# FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+
 
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
@@ -51,10 +53,11 @@ ket : ✅ : aktif
 
 
 
-## THANKS TO
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 * [`botst4rz`](https://github.com/Bintang73/botst4rz)
 * [`ibnusyawall`](https://github.com/ibnusyawall)
 * [`re-Destro`](https://github.com/re-Destro/BETA-BOT)
 ## DONASI
-* [`Saweria`](https://saweria.com/aditiaalfians)
+* [`KLIK'](https://wa.me/6283813304760+Mau+Donasi)
